@@ -1,0 +1,1 @@
+-rw-r--r--  1 root  root    1982 Aug  8  2019 vimrc
